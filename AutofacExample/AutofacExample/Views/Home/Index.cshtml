@@ -1,0 +1,42 @@
+﻿@model     IEnumerable<AutofacExample.Models.Product>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h2>Welcome @ViewBag.Name</h2>
+            <div>Is mail valid:@Html.Raw(@ViewBag.IsMailValid)</div>
+        </div>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Category</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+            {
+                    <tr class="success">
+                        <td>@item.Name</td>
+                        <td>@item.Category</td>
+                        <td>@item.Price</td>
+                    </tr>
+
+                }
+            </table>
+        </div>
+    </div>
+</body>
+</html>
