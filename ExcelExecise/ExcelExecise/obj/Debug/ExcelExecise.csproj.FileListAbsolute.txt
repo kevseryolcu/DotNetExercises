@@ -1,0 +1,8 @@
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\obj\Debug\ExcelExecise.csprojAssemblyReference.cache
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\obj\Debug\ExcelExecise.csproj.ResolveComReference.cache
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\obj\Debug\ExcelExecise.csproj.CoreCompileInputs.cache
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\bin\Debug\ExcelExecise.exe.config
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\bin\Debug\ExcelExecise.exe
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\bin\Debug\ExcelExecise.pdb
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\obj\Debug\ExcelExecise.exe
+C:\Users\kevser.yolcu\source\repos\ExcelExecise\ExcelExecise\obj\Debug\ExcelExecise.pdb
